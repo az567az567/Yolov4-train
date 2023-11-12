@@ -1,0 +1,6 @@
+classes= 3
+train  = C:/Users/az567/darknet1/Fire_detection/cfg/train.txt
+valid  = C:/Users/az567/darknet1/Fire_detection/cfg/val.txt
+names = C:/Users/az567/darknet1/Fire_detection/cfg/fire.names
+backup = C:/Users/az567/darknet1/Fire_detection/cfg/weights
+eval=fire
